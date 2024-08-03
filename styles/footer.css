@@ -1,0 +1,9 @@
+footer {
+    padding-block: 24px;
+    border-top: solid;
+    
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+}

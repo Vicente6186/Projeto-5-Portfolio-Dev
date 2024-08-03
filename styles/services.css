@@ -1,0 +1,22 @@
+#services {
+    padding-block: 88px 120px;
+    background-color: var(--gray-100);
+    header {text-align: center;}
+
+    h2{margin-top: 8px;}
+}
+
+#services-grid{
+    margin-top: 56px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+    article {
+        border: 2px solid var(--gray-200);
+        padding: 16px;
+        border-radius: 16px;
+    }
+    img { height: 48px; }
+    h3 {margin-block: 20px 8px;}
+}

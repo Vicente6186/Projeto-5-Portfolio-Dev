@@ -1,0 +1,8 @@
+.text-red{
+    font: var(--subtitle);
+    color: var(--red);
+}
+
+.text-purple{
+    color: var(--purple);
+}
